@@ -21,3 +21,20 @@ Znaczniki:
 </body>
 </html>
 ```
+ "Jak prezydent nie obroni ministra Gowina, to już go nie ma"
+Sikorski: <br>
+--MSZ nie zainterweniuje ws. obrażania Radwańskich
+nowe Prokuratura umorzyła śledztwo w sprawie syna premiera 
+
+
+**ala**ma kola 
+
+
+------------
+
+_ola_ ma psa
+
+
+[elementarz polskiego](http://www.gazeta.pl/0,0.html)
+
+![alt text](http://czasy-prl.za.pl/images/photoalbum/elementarz_0.jpg)
