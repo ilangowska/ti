@@ -1,5 +1,5 @@
 #Notatki do Technologii internetowych
-
+<blockquote><p><i> dzień bez kodowanoa jest dniem straconym<\i>
 Znaczniki:
 
 * p
