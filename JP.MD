@@ -363,3 +363,5 @@ do
 } 
 ```
 Petla do-while. Wypisz liczby od - 3.5 do 7.5 z krokiem co 0.5 za pomoca petli do-while.
+```
+1
