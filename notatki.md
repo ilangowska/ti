@@ -1,3 +1,4 @@
+```html
 ilangowska@p137-05:~$ ls~/.ssh/
 bash: ls~/.ssh/: Nie ma takiego pliku ani katalogu
 ilangowska@p137-05:~$ 
@@ -264,3 +265,4 @@ ilangowska@p137-05:~/Pobrane/Sublime Text 2$ ^C
 ilangowska@p137-05:~/Pobrane/Sublime Text 2$ ^C
 ilangowska@p137-05:~/Pobrane/Sublime Text 2$ ^C
 ilangowska@p137-05:~/Pobrane/Sublime Text 2$ 
+```html
