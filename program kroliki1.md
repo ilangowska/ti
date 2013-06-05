@@ -1,3 +1,5 @@
+<b>PROGRAM LICZACY KROLIKI NA WYSPIE<b/><br><br>
+```c
 #include <stdio.h>
 #include <math.h>
 
@@ -5,8 +7,6 @@
 #define r 4
 #define MAX 5000.0
 
-<b>PROGRAM LICZACY KROLIKI NA WYSPIE<b/><br><br>
-```c
 /*
 const double r = 3.7;
 const double MAX = 5000.0;*/
