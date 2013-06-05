@@ -1,21 +1,42 @@
-#include <stdio.h>
-#define rozmiar 5
-double esrednia(double dane[],int );
-int
-main()
-{
-  double dane [rozmiar],x,srednia;
-	int i;
-	for(i=0; i<rozmiar;i++)
-	{
-		printf("wprowadz liczbe nr%d:",i+1);
-		scanf("%lf",&x);
-		dane[i]=x;
-		}
-		srednia = esrednia (dane, rozmiar);
-		for (i=0, i<rozmiar; i++)
-		printf("\nElement %d tablicy ma wartosc:%lf",i,dane[i]);
-		getchar ();
-		getchar ();
-		return 0
-}
+#Notatki do Technologii internetowych
+<blockquote><p><i> dzień bez kodowanoa jest dniem straconym<\i>
+Znaczniki:
+
+* p
+* ul, ol
+* li
+* img
+* h
+* 
+```html
+<!doctype html>
+<html lang=pl>
+<head>
+  <meta charset=utf-8>
+  <title>Szablon strony HTML5</title>
+</head>
+<body>
+  <p>ąćęłńóśźż ĄĆĘŁŃÓŚŹŻ</p>
+<p>ąćęłńóśźż ĄĆĘŁŃÓŚŹŻ</p>
+</body>
+</html>
+```
+ "Jak prezydent nie obroni ministra Gowina, to już go nie ma"
+Sikorski: <br>
+--MSZ nie zainterweniuje ws. obrażania Radwańskich
+nowe Prokuratura umorzyła śledztwo w sprawie syna premiera 
+
+
+**ala**ma kola 
+
+
+------------
+
+_ola_ ma psa
+
+
+[elementarz polskiego](http://www.gazeta.pl/0,0.html)
+
+![alt text](http://czasy-prl.za.pl/images/photoalbum/elementarz_0.jpg)
+fast scrol
+
