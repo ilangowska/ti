@@ -8,19 +8,7 @@ Znaczniki:
 * img
 * h
 * 
-```html
-<!doctype html>
-<html lang=pl>
-<head>
-  <meta charset=utf-8>
-  <title>Szablon strony HTML5</title>
-</head>
-<body>
-  <p>ąćęłńóśźż ĄĆĘŁŃÓŚŹŻ</p>
-<p>ąćęłńóśźż ĄĆĘŁŃÓŚŹŻ</p>
-</body>
-</html>
-```
+
  "Jak prezydent nie obroni ministra Gowina, to już go nie ma"
 Sikorski: <br>
 --MSZ nie zainterweniuje ws. obrażania Radwańskich
